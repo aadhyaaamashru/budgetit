@@ -1,3 +1,7 @@
+start 
+
+git init 
+
 git remote add origin https://github.com/aadhyaaamashru/budgetit.git
 
 git branch -M main
